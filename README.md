@@ -11,7 +11,7 @@ This year, I aspire to:
 
 ## What I Bring
 I envision my ideal work environment as a place where I can:
-- Collaborate with a dedicated team in a 9-to-5 rhythm.
+- Collaborate with a dedicated team.
 - Review technical and strategic materials, from engineering work to investor decks.
 - Engage with colleagues over lunch, share ideas, and contribute to a culture of growth and camaraderie.
 - Travel to connect with customers, investors, and team members while writing thought leadership articles.
