@@ -19,6 +19,6 @@ I envision my ideal work environment as a place where I can:
 ## Closing Thoughts
 Few may understand the growing pains of navigating diverse passions and experiences to find a true "work-home." For me, it’s not about intellect, fame, or wealth—it’s about alignment. If these goals aren’t realized this year, I am content to wait and continue refining my path.
 
-Thank you for taking the time to learn about my journey.  Below is a lovely pyramid for your own amusement.
+Thank you for taking the time to learn about my journey.  Below is a lovely pyramid for your own amusement, as well as mine.
 
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fparsadi.com%2Fwp-content%2Fuploads%2F2022%2F05%2FMaslows-Hierarchy-of-Needs.jpg&f=1&nofb=1&ipt=6b9dbf0bafbca65ad85d09e45c706f49e39f7829045d1eeea9600b93f338fbd1&ipo=images)
