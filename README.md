@@ -6,7 +6,7 @@ As cool as it sounds being an aspiring psychonalyst, psychonalytic writer, CEO o
 My goal is to streamline my passions and skills into a unified role.
 
 To greet my staff at 9 am.  To get into my corner office, review the engineering work, slide decks, and investor relations.  To eat lunch with my team, make jokes.  To write my articles, and travel to see
-customers, investors, and other team members. 
+customers, investors, and other team members. And if this is all online, that's fine too, as long as we still get out for ramen or skiing every now and then.
 
 This year I hope to be head of data, a Developer Evangelist, or join a boutique fund or VC as a quant.
 
