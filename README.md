@@ -13,7 +13,8 @@ This year I hope to be head of data, a Developer Evangelist, or join a boutique 
 Few will understand the growing pains I experience, the desire to find a work-home that encourages and synergizes with my efforts.
 It may sound lofty, arrogant, or even naive.  At the end of the day where one is in proportion to maslow's hierarchy of needs is
 not inidicative of intellect, money, fame, or cunning.  It simply is.
+![image](https://github.com/user-attachments/assets/ab3f3666-ebc8-461d-b579-bbab05965e18)
+
 
 And if none of this happens this year, I'm fine to wait as well.
 
-![image](https://github.com/user-attachments/assets/ab3f3666-ebc8-461d-b579-bbab05965e18)
