@@ -1,6 +1,6 @@
 # Resume README
 
-In 2025, my focus is on consolidating my diverse efforts into a cohesive career path.
+In 2025, my focus is on consolidating my disparate efforts into a cohesive career path.
 
 As cool as it sounds being an aspiring psychonalyst, psychonalytic writer, CEO of a Private Equity Fund, Mentor, Lead Mentor, and Advisor to startups...
 
