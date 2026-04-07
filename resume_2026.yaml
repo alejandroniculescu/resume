@@ -10,39 +10,6 @@ about_me:
     working across complex human and sensor environments to build
     scalable data infrastructure and analytics systems.
 
-work:
-  type: W2
-  roles:
-    - company: Vail Resorts
-      role: PSIA Certified Alpine Ski Coach
-      start_date: 2025-09
-      end_date: 2026-04
-
-    - company: Mission Essential
-      role: CAT II Army Linguist (Romanian, Spanish)
-      start_date: 2017-01
-      end_date: 2018-03
-      description: >
-        Provided linguistic and operational support in the Black Sea region.
-
-    - company: US Navy
-      role: Information Systems Technician (NCO)
-      start_date: 2012-03
-      end_date: 2017-06
-      description: >
-        Supported operational systems for 5th Fleet across Bahrain, Kuwait,
-        San Diego, and Virginia Beach.
-        Transitioned to Navy Reserves while working in a civilian data engineering role.
-
-    - company: Booz Allen Hamilton
-      role: Data Engineer
-      start_date: 2013-01
-      end_date: 2014-06
-      description: >
-        Built large-scale data systems for NSA and DOJ using Hadoop and Accumulo.
-        Developed nearest-neighbor graph pipelines, optimized ETL workflows,
-        and worked with early versions of Spark and Kafka.
-
 contracts:
   type: Corp to Corp
   roles:
@@ -92,6 +59,13 @@ contracts:
             collaborating with Baylor, UCLA, Johns Hopkins, Columbia University,
             and the University of Maryland.
 
+private_equity:
+  roles:
+    - role: CEO and Fund Manager
+      period: "2020–present"
+      description: >
+        Managing investments across defense, aerospace, and technology sectors, achieving a 49% IRR over 6 years.
+
 advisory:
   type: Corp to Corp
   roles:
@@ -106,12 +80,38 @@ advisory:
         Advisingearly-stage startups on data strategy, customer acquisition,
         and KPI-driven growth.
 
-private_equity:
+work:
+  type: W2
   roles:
-    - role: CEO and Fund Manager
-      period: "2020–present"
+    - company: Vail Resorts
+      role: PSIA Certified Alpine Ski Coach
+      start_date: 2025-09
+      end_date: 2026-04
+
+    - company: Mission Essential
+      role: CAT II Army Linguist (Romanian, Spanish)
+      start_date: 2017-01
+      end_date: 2018-03
       description: >
-        Managing investments across defense, aerospace, and technology sectors, achieving a 49% IRR over 6 years.
+        Provided linguistic and operational support in the Black Sea region.
+
+    - company: US Navy
+      role: Information Systems Technician (NCO)
+      start_date: 2012-03
+      end_date: 2017-06
+      description: >
+        Supported operational systems for 5th Fleet across Bahrain, Kuwait,
+        San Diego, and Virginia Beach.
+        Transitioned to Navy Reserves while working in a civilian data engineering role.
+
+    - company: Booz Allen Hamilton
+      role: Data Engineer
+      start_date: 2013-01
+      end_date: 2014-06
+      description: >
+        Built large-scale data systems for NSA and DOJ using Hadoop and Accumulo.
+        Developed nearest-neighbor graph pipelines, optimized ETL workflows,
+        and worked with early versions of Spark and Kafka.
 
 care:
   - role: Family Caregiver
