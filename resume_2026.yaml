@@ -1,0 +1,181 @@
+about_me:
+  name: Alexander Niculescu
+  address: New York, NY
+  email: al3xanderniculescu@gmail.com
+  phone: "+1-917-816-6398"
+  linkedin: https://www.linkedin.com/in/aleniculescu/
+  github: https://github.com/alejandroniculescu
+  summary: >
+    Data engineer and investor specializing in defense and AI tech,
+    working across complex human and sensor environments to build
+    scalable data infrastructure and analytics systems.
+
+work:
+  type: W2
+  roles:
+    - company: Vail Resorts
+      role: PSIA Certified Alpine Ski Coach
+      start_date: 2025-09
+      end_date: 2026-04
+
+    - company: Mission Essential
+      role: CAT II Army Linguist (Romanian, Spanish)
+      start_date: 2017-01
+      end_date: 2018-03
+      description: >
+        Provided linguistic and operational support in the Black Sea region.
+
+    - company: US Navy
+      role: Information Systems Technician (NCO)
+      start_date: 2012-03
+      end_date: 2017-06
+      description: >
+        Supported operational systems for 5th Fleet across Bahrain, Kuwait,
+        San Diego, and Virginia Beach.
+        Transitioned to Navy Reserves while working in a civilian data engineering role.
+
+    - company: Booz Allen Hamilton
+      role: Data Engineer
+      start_date: 2013-01
+      end_date: 2014-06
+      description: >
+        Built large-scale data systems for NSA and DOJ using Hadoop and Accumulo.
+        Developed nearest-neighbor graph pipelines, optimized ETL workflows,
+        and worked with early versions of Spark and Kafka.
+
+contracts:
+  type: Corp to Corp
+  roles:
+    - company: Labrador Data Retrieval
+      role: Founder / Lead Data Engineer
+      start_date: 2016-03
+      end_date: current
+      description: >
+        Led data engineering and analytics projects across defense and AI systems.
+      projects:
+        - name: IBM Watson / UrbanCode
+          role: Lead Data Engineer
+          start_date: 2016-04
+          end_date: 2018-02
+          description: >
+            Deployed to multiple client sites to automate data workflows
+            and optimize CI/CD systems in Java, Go, Python, and JS.
+
+        - name: WWE
+          role: Lead Data Engineer
+          start_date: 2017-04
+          end_date: 2018-12
+          description: >
+            Led AWS migration, building Lambda-based data pipelines
+            and data warehouse systems in Python and SQL.
+
+        - name: JSOC
+          role: Data Scientist
+          period: "Classified engagement"
+          description: >
+            Embedded across multiple counter-terrorism task forces.
+            Details and dates intentionally withheld.
+
+        - name: Project Maven
+          role: Lead Data Engineer
+          start_date: 2018-03
+          end_date: 2019-03
+          description: >
+            Built large-scale data pipelines supporting computer vision systems in Python and C++.
+
+        - name: DARPA Graphs Simplex
+          role: Data Engineer
+          start_date: 2015-01
+          end_date: 2016-02
+          description: >
+            Built graph-based data systems for DARPA research initiatives,
+            collaborating with Baylor, UCLA, Johns Hopkins, Columbia University,
+            and the University of Maryland.
+
+advisory:
+  type: Corp to Corp
+  roles:
+    - role: Startup Advisor / Mentor
+      period: "2022–present"
+      organizations:
+        - Techstars (Victus 2025, Kindlee 2025, VendorConnect 2025–present)
+        - Y Combinator (Ferment Tech YC S23)
+        - Swyft (2022)
+        - Wayo (Founder, bootstrapped)
+      description: >
+        Advisingearly-stage startups on data strategy, customer acquisition,
+        and KPI-driven growth.
+
+private_equity:
+  roles:
+    - role: CEO and Fund Manager
+      period: "2020–present"
+      description: >
+        Managing investments across defense, aerospace, and technology sectors, achieving a 49% IRR over 6 years.
+
+care:
+  - role: Family Caregiver
+    start_date: 2022-06
+    end_date: 2024-08
+    description: >
+      Provided full-time care for a family member with Lewy Body Dementia,
+      managing medical coordination and daily care logistics.
+
+education:
+  - school: Stony Brook University
+    degree: B.S. Applied Mathematics
+    start_date: 2009
+    end_date: 2011
+    description: >
+      Focus in graph theory and combinatorics.
+
+  - school: Institute of Psychoanalysis, London (BPS)
+    courses: Introductory Course, Foundation Course
+    start_date: 2020
+    end_date: 2022
+    description: >
+      Training in Bionian group dynamics and psychoanalytic theory.
+
+  - school: Philadelphia Association, London
+    courses: Experiential Course
+    start_date: 2023
+    end_date: 2024
+    description: >
+      Experiential psychoanalytic training focused on group dynamics
+      and therapeutic process.
+
+volunteer:
+  - organization: Team Rubicon
+    role: Tech and First Responder Volunteer
+    start_date: 2012-09
+    end_date: current
+
+  - organization: VA Domiciliary Care Program
+    role: Assistant Therapist (Volunteer)
+    start_date: 2023-01
+    end_date: 2024-08
+    description: >
+      Observed and supported group therapy sessions including CBT, DBT,
+      and equine-assisted therapy.
+
+  - organization: Valle Nevado Ski Patrol
+    role: Volunteer Patrol Trainee
+    start_date: 2026-05
+    end_date: current
+    description: >
+      Training as a first responder in alpine rescue and safety.
+
+  - organization: WWOOF / Friends of Fort Tryon Park / Lynchburg Grows
+    role: Volunteer Farm Worker
+    start_date: 2006
+    end_date: current
+    description: >
+      Long-term volunteer in farming and sustainability initiatives.
+
+publications:
+  - title: "The Commodification of the Jester"
+    publication: "The Philadelphia Association 100 Year Anniversary Journal"
+    date: 2025-10
+    link: "Available upon request"
+    description: >
+      A satirical essay exploring the role of humor in contemporary culture.
