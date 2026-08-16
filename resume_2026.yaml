@@ -1,14 +1,14 @@
 about_me:
   name: Alexander Niculescu
-  address: New York, NY
+  address: Neukölln, Berlin
   email: al3xanderniculescu@gmail.com
-  phone: "+1-917-816-6398"
+  phone: "+49 177 3353715"
   linkedin: https://www.linkedin.com/in/aleniculescu/
   github: https://github.com/alejandroniculescu
   summary: >
-    Data engineer and investor specializing in defense and AI tech,
+    Data engineer and investor specializing in philanthropy and defense
     working across complex human and sensor environments to build
-    scalable data infrastructure and analytics systems.
+    helpful data infrastructure and analytics systems.
 
 contracts:
   type: Corp to Corp
@@ -19,6 +19,7 @@ contracts:
       end_date: current
       description: >
         Led data engineering and analytics projects across defense and AI systems.
+        Pivoted into startups, advising, investing, and philanthropy
       projects:
         - name: IBM Watson / UrbanCode
           role: Lead Data Engineer
@@ -58,13 +59,6 @@ contracts:
             Built graph-based data systems for DARPA research initiatives,
             collaborating with Baylor, UCLA, Johns Hopkins, Columbia University,
             and the University of Maryland.
-
-private_equity:
-  roles:
-    - role: CEO and Fund Manager
-      period: "2020–present"
-      description: >
-        Managing investments across defense, aerospace, and technology sectors, achieving a 49% IRR over 6 years.
 
 advisory:
   type: Corp to Corp
@@ -161,9 +155,16 @@ volunteer:
   - organization: Valle Nevado Ski Patrol
     role: Volunteer Patrol Trainee
     start_date: 2026-05
-    end_date: current
+    end_date: 2026-09
     description: >
       Training as a first responder in alpine rescue and safety.
+      
+  - organization: Effective Altruism Berlin
+    role: Philanthropist
+    start_date: 2026-07
+    end_date: current
+    description: >
+      Building sensor and psychosomatic based modalities for assisting humans.
 
   - organization: WWOOF / Friends of Fort Tryon Park / Lynchburg Grows
     role: Volunteer Farm Worker
